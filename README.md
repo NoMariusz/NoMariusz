@@ -14,6 +14,8 @@ I've started learning about IT when I was 16 years old. At the beginning I've ga
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" width="35px" height="35px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="35px" height="35px">
 </code>
+
+<br />
 <br />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NoMariusz&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
