@@ -1,5 +1,7 @@
 ## Hi, I'm Mariusz 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=nomariusz)
+
 I've started learning about IT when I was 16 years old. At the beginning I've gained some knowledge about hardware, Linux and networking, but that wasn't as exciting as programming. Learning new stuff and creating useful things is something I love ❤️
 
 * 🖱️ I feel most comfortable with 🕸️ web development, 📱 mobile development and 🕹️ making games, but every field where I can create something useful is great.
