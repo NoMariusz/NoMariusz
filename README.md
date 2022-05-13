@@ -5,8 +5,8 @@
 I've started learning about IT when I was 16 years old. At the beginning I've gained some knowledge about hardware, Linux and networking, but that wasn't as exciting as programming. Learning new stuff and creating useful things is something I love ❤️
 
 * 🖱️ I feel most comfortable with 🕸️ web development, 📱 mobile development and 🕹️ making games, but every field where I can create something useful is great.
-* 📖 Currently, I polish up [React](https://github.com/facebook/react) skills.
-* 🛠️ In my free time I'm working on [Praeteritum](https://github.com/NoMariusz/Praeteritum).
+* 📖 In free time, I polish up [PHP](https://www.php.net/) and [Python](https://www.python.org/) skills.
+* 🛠️ Currently, I'm working in [JMK-Computerate-Sp-z-o-o](https://github.com/JMK-Computerate-Sp-z-o-o).
 
 #### 🖥️ Languages and tools in which I have some experience
 <code>
