@@ -5,17 +5,19 @@
 I've started learning about IT when I was 16 years old. At the beginning I've gained some knowledge about hardware, Linux and networking, but that wasn't as exciting as programming. Learning new stuff and creating useful things is something I love ❤️
 
 * 🖱️ I feel most comfortable with 🕸️ web development, 📱 mobile development and 🕹️ making games, but every field where I can create something useful is great.
-* 📖 In free time, I polish up [PHP](https://www.php.net/) and [Python](https://www.python.org/) skills.
+* 📖 In free time, I'm trying to learn something about [Next.js](https://nextjs.org/).
 * 🛠️ Currently, I'm working in [JMK-Computerate-Sp-z-o-o](https://github.com/JMK-Computerate-Sp-z-o-o).
 
 #### 🖥️ Languages and tools in which I have some experience
-<code>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="35px" height="35px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="35px" height="35px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="35px" height="35px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" width="35px" height="35px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="35px" height="35px">
-</code>
+<div>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</div>
 
 <br />
 <br />
