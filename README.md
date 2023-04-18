@@ -22,4 +22,4 @@ I've started learning about IT when I was 16 years old. At the beginning I've ga
 <br />
 <br />
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NoMariusz&count_private=true&show_icons=true&theme=tokyonight&icon_color=f0dc4e)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NoMariusz&count_private=true&show_icons=true&theme=tokyonight&icon_color=f0dc4e)](https://github.com/anuraghazra/github-readme-stats) --->
